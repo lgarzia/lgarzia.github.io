@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Luke Garzia",
-  description: "Collection of items written by Luke Garzia",
+  description: "Collection of notes & learnings",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -20,22 +20,22 @@ export default defineConfig({
       },
       '/notes/gcp/': [
       {
-        text: 'GCP',
         items: [
+          { text: 'GCP Overview', link: '/notes/gcp/'},
           { text: 'Analytics Lake House', link: '/notes/gcp/analytic-lakehouse'},
         ]
       }],
       '/notes/python/':[
       {
-        text: 'Python',
         items: [
+          { text: 'Python Overview', link: '/notes/python/'},
           { text: 'Libraries Explored', link: '/notes/python/python-libraries'}
         ]
       }]
   },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/lgarzia' }
     ]
   }
 })
