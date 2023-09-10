@@ -10,6 +10,7 @@ tagline: The following is a collection of notes that are hastily organized.
 
 ## Objective
 
-What follows are notes and learnings that I think are most germane to staying relevant in the Analytics & Engineering space. 
+What follows are notes and learnings that I think are most germane to staying relevant in the Analytics & Engineering domain.
+ 
 
 
