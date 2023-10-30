@@ -2,8 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Luke Garzia",
-  description: "Collection of notes & learnings",
+  lang: 'en-US',
+  title: 'Luke Garzia',
+  description: "Luke Garzia's personal site - my collection of learnings, notes & projects",
+  head: [['link', { rel: 'icon', href: '/assets/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
