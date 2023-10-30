@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'Luke Garzia',
   description: "Luke Garzia's personal site - my collection of learnings, notes & projects",
   // https://stackoverflow.com/questions/35037482/favicon-with-github-pages
-  head: [['link', { rel: 'icon', type: "image/x-icon", href: '/icons/favicon.png?' }]],
+  //head: [['link', { rel: 'icon', type: "image/x-icon", href: '/icons/favicon.png?' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
