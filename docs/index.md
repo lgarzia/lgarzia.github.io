@@ -18,7 +18,7 @@ features:
   - title: Medium Articles
     details: Articles of explorations
     link: https://medium.com/@garzia.luke
-  - title: Dev2 Postings
+  - title: Dev Postings
     details: Code snippets
     link: https://dev.to/lgarzia
   - title: Kaggle Notebooks
