@@ -15,7 +15,7 @@ hero:
     #  link: /api-examples
 
 features:
-  - title: Medium Articles
+  - title: Medium Articles2
     details: Articles of explorations
     link: https://medium.com/@garzia.luke
   - title: Dev Postings
