@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Luke Garzia',
   description: "Luke Garzia's personal site - my collection of learnings, notes & projects",
-  head: [['link', { rel: 'icon', href: 'https://github.com/lgarzia/lgarzia.github.io/blob/main/docs/icons/favicon.png?raw=true' }]],
+  head: [['link', { rel: 'icon', href: '/icons/favicon.png?' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
