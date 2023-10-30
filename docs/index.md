@@ -24,7 +24,5 @@ features:
   - title: Kaggle Notebooks
     details: Analytics, Data Mining, Deep Learning
     link: https://www.kaggle.com/lukegarzia
-
-sidebar: true
 ---
 

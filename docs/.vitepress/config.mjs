@@ -5,11 +5,6 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Luke Garzia',
   description: "Luke Garzia's personal site - my collection of learnings, notes & projects",
-  // https://stackoverflow.com/questions/35037482/favicon-with-github-pages
-  //https://stackoverflow.com/questions/69947638/pushing-vite-reactjs-build-on-github-pages-gives-404-on-build-files
-  //head: [['link', { rel: 'icon', type: "image/x-icon", href: './notes/favicon.png?' }]],
-  // throws a 404 page when included in the head
-
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
