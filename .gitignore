@@ -1,3 +1,4 @@
 node_modules
 internal_notes.txt
 docs/.vitepress/dist/
+docs/.vitepress/cache/

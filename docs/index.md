@@ -3,26 +3,29 @@
 layout: home
 title: Blog
 hero:
-  name: "Luke Garzia"
-  text: "Notes & Learnings"
-  tagline: Analytics & Engineering  
+  name: Luke Garzia
+  text: Analytics & Engineering
+  tagline: Continual learning through reading, writing & projects 
+  image: 
+    src: /knight_books.png
+    alt: relevant or bust  
   actions:
     - theme: brand
       text: See all notes
       link: /notes/
-    #- theme: alt
-    #  text: Resume
-    #  link: /api-examples
+    - theme: alt
+      text: Connect
+      link: https://www.linkedin.com/in/luke-garzia/
 
 features:
-  - title: Medium Articles2
-    details: Articles of explorations
+  - title: Medium Articles
+    details: View articles...
     link: https://medium.com/@garzia.luke
-  - title: Dev Postings
-    details: Code snippets
-    link: https://dev.to/lgarzia
-  - title: Kaggle Notebooks
-    details: Analytics, Data Mining, Deep Learning
-    link: https://www.kaggle.com/lukegarzia
+  - title: Chart Me
+    details: Python Package to simplify Data Visualizations
+    link: https://pypi.org/project/chart_me/
+  - title: GCP Project - Podcast Topic Extractions
+    details: End to end process leveraging GCP... 
+    link: https://github.com/lgarzia/topic_extractions
 ---
 
