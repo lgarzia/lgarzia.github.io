@@ -1,13 +1,12 @@
 ---
-title: Notes & Learnings
+title: Learnings
 editLink: false
-tagline: Journaling my quest to stay relevant
 outline: [1, 3]
 ---
 # Overview
 I sit at the intersection of **Analytics and Engineering**, where my primary toolkit is Google Cloud Platform, Python, and PySpark. I *attempt* to monitor industry trends and *stay relevant* by investing time in learning new tools and ideas. Finally, **soft skills** are crucial to project success, so I occasionally recollect on experiences and conversations and share what I believe to be true. 
 
-# Where I'm currently investing my time
+# Active Efforts
 
 ::: details Rust-100 day challenge
 My thoughts align with [SeatleDataGuy](https://seattledataguy.substack.com/p/behind-the-rust-hype-what-every-data).
@@ -27,20 +26,20 @@ Navigate to relevant sections of interest.
 I avoid step-by-step tutorials and focus mainly on broad ideas, mental models, & use cases because, generally speaking, the germane references are really good these days.
 :::
 
+## [Readings](/notes/readings/)
+Sharing links to articles that I have found insightful.
+
 ## Analytics & Data Mining
 Researching tools, techniques, and concepts to extract meaning from data.
 
-## Articles
-Sharing links to articles I found interesting and insightful.
+## DE, ML, Et al. Engineering
+Tracking industry changes & exploring concepts & ideas around engineering in general - including but not limited to (DE, ML, Analytics, Software, Platform)
 
-## DE, ML & Analytical Engineering
-Tracking industry changes & exploring concepts & ideas. I believe all these responsibilities overlap significantly and *could* be considered a singular job function.
+## AI(*LLM*) Engineering
+Building applications with LLMs and AI Agents.
 
 ## [Google Cloud Platform](/notes/gcp/)
 Leveraging GCP services and architectural patterns - heavy emphasis at times is on BigQuery.
-
-## LLM|AI Engineering
-Building applications with LLMs and AI Agents.
 
 ## [Python](/notes/python/)
 Keeping a pulse on the Python ecosystem by mostly exploring new libraries. 
@@ -48,8 +47,9 @@ Keeping a pulse on the Python ecosystem by mostly exploring new libraries.
 ## Rust
 Learning Rust and system programming.
  
-## Soft Skills
-Musing about non-technical aspects of projects.
-
 ## Web
 Developing front-end experiences.
+
+## Professional Development
+Musing about non-technical aspects of staying relevant from Personal branding to future of work.
+

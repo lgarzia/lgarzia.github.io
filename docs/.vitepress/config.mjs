@@ -24,6 +24,7 @@ export default defineConfig({
       { text: 'Notes', 
       items: [
         {text: 'Overview', link: '/notes/' },
+        {text: 'Readings', link: '/notes/readings/' },
         {text: 'GCP', link: '/notes/gcp/' },
         {text: 'Python', link: '/notes/python/' }
       ]},
@@ -37,8 +38,9 @@ export default defineConfig({
           {
             text: 'Topics',
             items: [
-              { text: 'GCP Overview', link: '/notes/gcp/'},
-              { text: 'Python Overview', link: '/notes/python/'}
+              { text: 'Readings', link: '/notes/readings/' },
+              { text: 'GCP', link: '/notes/gcp/'},
+              { text: 'Python', link: '/notes/python/'}
             ]
           }
         ]
