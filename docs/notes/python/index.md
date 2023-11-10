@@ -1,17 +1,12 @@
 ---
-title: Luke Garzia's Notes & Learnings
-editLink: true
-tagline: The following is a collection of notes that are hastily organized.
+title: Python
+editLink: false
 
 ---
-::: tip Informational Only
-Not a tutorial
-:::
-# Python: {{ $frontmatter.title }}
+# Overview
+My objective is to keep a pulse on the evolving ecosystem. I mostly cover libraries and features.
 
-{{ $frontmatter.tagline}}
-
-## [Exploring](./python-libraries) Python Libraries <Badge type="warning" text="not tutorials" />
-I have a backlog of libraries that I come across that sound interesting. I'll try and timebox a couple of hours
+## [Python Libraries](./python-libraries) <Badge type="warning" text="not tutorials" />
+I have a backlog of libraries that I come across that sound interesting. I'll timebox a couple of hours
 to explore them. All activity is captured in the following [repo](https://github.com/lgarzia/library_explorations). 
 

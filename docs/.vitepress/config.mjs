@@ -25,8 +25,12 @@ export default defineConfig({
       items: [
         {text: 'Overview', link: '/notes/' },
         {text: 'Readings', link: '/notes/readings/' },
+        {text: 'Analytics', link: '/notes/analytics/'},
+        {text: 'Engineering', link: '/notes/engineering/'},
+        {text: 'AI(LLM) Engineering', link: '/notes/llm/' },
         {text: 'GCP', link: '/notes/gcp/' },
-        {text: 'Python', link: '/notes/python/' }
+        {text: 'Python', link: '/notes/python/' },
+        {text: 'Leadership', link: '/notes/leadership/'}
       ]},
     ],
 //https://vitepress.dev/reference/default-theme-sidebar#the-basics
@@ -38,9 +42,18 @@ export default defineConfig({
           {
             text: 'Topics',
             items: [
-              { text: 'Readings', link: '/notes/readings/' },
-              { text: 'GCP', link: '/notes/gcp/'},
-              { text: 'Python', link: '/notes/python/'}
+              {text: 'Readings', link: '/notes/readings/' },
+              {text: 'Analytics', link: '/notes/analytics/'},
+              {text: 'Engineering', link: '/notes/engineering/'},
+              {text: 'AI(LLM) Engineering', link: '/notes/llm/' },
+              {text: 'GCP', link: '/notes/gcp/'},
+              {text: 'Python', collapsed: true,
+                items: [
+                  {text: 'Overview', link: '/notes/python/'},
+                  {text: 'Libraries', link: '/notes/python/python-libraries'},
+                ]
+              },
+              {text: 'Leadership', link: '/notes/leadership/'}
             ]
           }
         ]

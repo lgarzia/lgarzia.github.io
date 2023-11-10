@@ -12,7 +12,7 @@ Intent is not to share every article I come across, but the ones I find compelli
 Comprehensive view of industry organized across core concepts. A couple ideas I needed to learn a bit more about *Real Time Databases* & *Database Abstractions*. The other observation is certain segments seems consolidated, while others are still shaking out (e.g. Data Governance). Additionally, I didn't realize the richness of data furnishers ecosystem.
 :::
 
-## DE, ML, Et al. Engineering
+## Engineering -> DE, ML, Analytical & Software
 ::: details [Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 You're not Google. Keep it simple and the argument for *macroservices*. 
 :::
