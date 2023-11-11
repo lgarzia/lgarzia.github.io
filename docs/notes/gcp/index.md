@@ -15,7 +15,7 @@ The following article lays out an end-to-end vision of where analytical systems 
 ![GCP Lakehouse](./images/GCP_Analytic_Lakehouse.png)
 
 ## BigQuery
-My Medium Articles:
+My Medium articles:
 * [JSON Data Types](https://medium.com/@garzia.luke/brief-guide-to-effectively-leverage-json-data-type-in-bigquery-a3185d9fe88b)
 * [BigQuery UDFs](https://medium.com/@garzia.luke/bigquery-udfs-leverage-learn-from-community-contributed-projects-7ddff089f35a)
 * [Remote Functions](https://medium.com/@garzia.luke/bigquery-remote-functions-identifying-valid-use-cases-1f80a6f55767)

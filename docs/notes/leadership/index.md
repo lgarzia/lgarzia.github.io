@@ -4,7 +4,7 @@ editLink: false
 outline: [1, 3]
 ---
 
-## Overview
+# Overview
 Plenty of books, courses, and podcasts about professional development and leadership exist. I am sharing a few ideas and thoughts arising through conversation or readings. I have 0 answers, just beliefs.
 
 Here's a sampling of experts:

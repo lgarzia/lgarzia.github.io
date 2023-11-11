@@ -3,12 +3,7 @@ title: Python Libraries
 lang: en-US
 ---
 
-## Overview
-Core idea is exploring Python libriaries to get a feel for the API and the use cases.  
-
-
-## Completed 
-Order of evaluation is just chronological - not based on importance. 
+## Libraries
 ::: details sqlglot
 [sqlglot](https://github.com/tobymao/sqlglot) SQL parser, transpiler, and optimizer engine. I was inspired by the library's approach to managing SQL gracefully:
     * SQLGlot can rewrite queries into an "optimized" form.

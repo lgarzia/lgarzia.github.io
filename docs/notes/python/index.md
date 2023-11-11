@@ -1,7 +1,7 @@
 ---
 title: Python
 editLink: false
-
+outline: [1, 3]
 ---
 # Overview
 My objective is to keep a pulse on the evolving ecosystem. I mostly cover libraries and features.
