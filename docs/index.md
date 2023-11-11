@@ -19,13 +19,13 @@ hero:
 
 features:
   - title: Medium Articles
-    details: View articles...
+    details: View my medium articles.
     link: https://medium.com/@garzia.luke
   - title: Chart Me
-    details: Python Package to simplify Data Visualizations
+    details: Python Package to simplify data visualizations
     link: https://pypi.org/project/chart_me/
   - title: GCP Project - Podcast Topic Extractions
-    details: End to end process leveraging GCP... 
+    details: End to end process leveraging various GCP services.
     link: https://github.com/lgarzia/topic_extractions
 ---
 

@@ -29,13 +29,13 @@ I avoid step-by-step tutorials and focus mainly on broad ideas, mental models, &
 ## [Readings](/notes/readings/)
 Sharing links to articles that I have found insightful.
 
-## Analytics & Data Mining
+## [Analytics](/notes/analytics/)
 Researching tools, techniques, and concepts to extract meaning from data.
 
-## DE, ML, Et al. Engineering
+## [Engineering](/notes/engineering/)
 Tracking industry changes & exploring concepts & ideas around engineering in general - including but not limited to (DE, ML, Analytics, Software, Platform)
 
-## AI(*LLM*) Engineering
+## [AI Engineering](/notes/llm/)
 Building applications with LLMs and AI Agents.
 
 ## [Google Cloud Platform](/notes/gcp/)
@@ -44,12 +44,6 @@ Leveraging GCP services and architectural patterns - heavy emphasis at times is 
 ## [Python](/notes/python/)
 Keeping a pulse on the Python ecosystem by mostly exploring new libraries. 
 
-## Rust
-Learning Rust and system programming.
- 
-## Web
-Developing front-end experiences.
-
-## Professional Development
+## [Leadership](/notes/leadership/)
 Musing about non-technical aspects of staying relevant from Personal branding to future of work.
 

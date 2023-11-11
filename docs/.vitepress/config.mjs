@@ -27,7 +27,7 @@ export default defineConfig({
         {text: 'Readings', link: '/notes/readings/' },
         {text: 'Analytics', link: '/notes/analytics/'},
         {text: 'Engineering', link: '/notes/engineering/'},
-        {text: 'AI(LLM) Engineering', link: '/notes/llm/' },
+        {text: 'AI Engineering', link: '/notes/llm/' },
         {text: 'GCP', link: '/notes/gcp/' },
         {text: 'Python', link: '/notes/python/' },
         {text: 'Leadership', link: '/notes/leadership/'}
