@@ -19,3 +19,7 @@ My Medium Articles:
 * [JSON Data Types](https://medium.com/@garzia.luke/brief-guide-to-effectively-leverage-json-data-type-in-bigquery-a3185d9fe88b)
 * [BigQuery UDFs](https://medium.com/@garzia.luke/bigquery-udfs-leverage-learn-from-community-contributed-projects-7ddff089f35a)
 * [Remote Functions](https://medium.com/@garzia.luke/bigquery-remote-functions-identifying-valid-use-cases-1f80a6f55767)
+
+## BigLake
+* [BigQueryover Iceberg](https://cloud.google.com/blog/products/data-analytics/announcing-apache-iceberg-support-for-biglake)
+![GCP BigLake](/BigLake.png)
