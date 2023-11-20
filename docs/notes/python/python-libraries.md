@@ -4,6 +4,16 @@ lang: en-US
 ---
 
 ## Libraries
+::: details plotai
+[plotai](https://github.com/mljar/plotai) It is a great library that interacts with Openai to automate the creation of plots in matplotlib with a simple command.
+**note**: need to specify the key in .env file
+
+```python
+from plotai import PlotAI
+plot = PlotAI(df)
+plot.make("make a scatter plot")
+```
+:::
 ::: details sqlglot
 [sqlglot](https://github.com/tobymao/sqlglot) SQL parser, transpiler, and optimizer engine. I was inspired by the library's approach to managing SQL gracefully:
     * SQLGlot can rewrite queries into an "optimized" form.
