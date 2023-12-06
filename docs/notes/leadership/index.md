@@ -13,6 +13,9 @@ Here's a sampling of experts:
 * Personality assessments: [corestrengths](https://www.corestrengths.com/)
 * [Memoirs](https://davidgoggins.com/book/) and [pop-psychology](https://www.danpink.com/)
 
+## Aviv Ben-Yosef - Accelerating Developer Growth
+[Geeks Who Lead](https://podcast.geekswholead.com/) podcast is always pretty good, but I was inspired listening to [Aviv's](https://podcast.geekswholead.com/1788616/13728088-aviv-ben-yosef-accelerating-developer-growth) thoughts on talent development. In the end, I walked away with the idea of a flourishing environment that allows developers to grow. We should have strong expectations that talented individuals can learn 'A LOT' in a short amount of time. A command and control structure is an anti-pattern that will stifle talent development.  
+
 ## Lessons from David Goggins
 I completed [Never Finished](https://www.amazon.com/Never-Finished-Unshackle-Your-Within/dp/1544534086) and [Can't Hurt Me](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287) over a few days in a spellbound frenzy. Here's my key takeaway as one of the - prosaic many :hugs::
 
