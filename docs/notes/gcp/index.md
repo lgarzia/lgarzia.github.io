@@ -27,3 +27,6 @@ My Medium articles:
 ## BigLake
 * [BigQueryover Iceberg](https://cloud.google.com/blog/products/data-analytics/announcing-apache-iceberg-support-for-biglake)
 ![GCP BigLake](/BigLake.png)
+
+## Cloud Storage
+[Autoclass](https://cloud.google.com/storage/docs/autoclass) is generally recommended, unless known use case for a specific storage class or if other Google Cloud services regularly read data from the bucket (e.g. Sensitive Data Protection);
