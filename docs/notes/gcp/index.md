@@ -24,6 +24,10 @@ My Medium articles:
 * [BigQuery UDFs](https://medium.com/@garzia.luke/bigquery-udfs-leverage-learn-from-community-contributed-projects-7ddff089f35a)
 * [Remote Functions](https://medium.com/@garzia.luke/bigquery-remote-functions-identifying-valid-use-cases-1f80a6f55767)
 
+Articles
+* [Technical Overview of JSON Type](https://cloud.google.com/blog/products/databases/how-bigquery-powers-semi-structured-data-storage)
+![Mapping JSON to Virtual Columns](https://storage.googleapis.com/gweb-cloudblog-publish/images/1_virtual_columns.max-1700x1700.png)
+
 ## BigLake
 * [BigQueryover Iceberg](https://cloud.google.com/blog/products/data-analytics/announcing-apache-iceberg-support-for-biglake)
 ![GCP BigLake](/BigLake.png)
