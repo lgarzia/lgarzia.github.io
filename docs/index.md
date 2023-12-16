@@ -1,17 +1,18 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: Blog
+title: 'Journal'
 hero:
-  name: Luke Garzia
-  text: Analytics & Engineering
-  tagline: Continual learning through reading, writing & projects 
+  name: My Continous Learning Journal
+  text:  
+  tagline: Mostly a mess of ideas & projects
+  # Can i put text here
   image: 
     src: /knight_books.png
     alt: relevant or bust  
   actions:
     - theme: brand
-      text: See all notes
+      text: About me
       link: /notes/
     - theme: alt
       text: Connect
@@ -19,13 +20,13 @@ hero:
 
 features:
   - title: Medium Articles
-    details: View my medium articles.
+    details: Link to my medium articles - most recently heavy on BigQuery and my journey into AI engineering. 
     link: https://medium.com/@garzia.luke
   - title: Chart Me
-    details: Python Package to simplify data visualizations
+    details: Python Package to simplify data visualizations. Currently, evaluating AI agents as a replacement tool. 
     link: https://pypi.org/project/chart_me/
-  - title: GCP Project - Podcast Topic Extractions
-    details: End to end process leveraging various GCP services.
+  - title: GCP Project
+    details: A learning project to extract topics from podcasts that facilitated my certification studies.
     link: https://github.com/lgarzia/topic_extractions
 ---
 

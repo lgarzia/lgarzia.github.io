@@ -1,5 +1,5 @@
 ---
-title: Grist for the mill
+title: Readings
 editLink: false
 outline: [1, 3]
 ---
@@ -43,6 +43,9 @@ Open source community is creating a standard API layer to interact with Datafram
 :::
 
 ## Rust
+::: details [Comprehensive Resource Guide](https://dev.to/apollolabsbin/58-rust-resources-every-learner-should-know-in-2023-12m9)
+Rust has a great community and a lot of resources available. I found the cheatsheets noted here particularly impressive.
+:::
 ::: details [Behind the Rust Hype](https://seattledataguy.substack.com/p/behind-the-rust-hype-what-every-data)
 Python's future will sit on Rust, no doubt in my mind. Rust offers a nice blend of clean syntax and performance, and it's rise makes a lot of sense to me now that I've started studying earnestly.
 :::

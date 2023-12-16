@@ -1,10 +1,25 @@
 ---
-title: Learnings
+title: About Me
 editLink: false
 outline: [1, 3]
 ---
-# Overview
-I sit at the intersection of **Analytics and Engineering**, where my primary toolkit is Google Cloud Platform, Python, and PySpark. I *attempt* to monitor industry trends and *stay relevant* by investing time in learning new tools and ideas. Finally, **soft skills** are crucial to project success, so I occasionally recollect on experiences and conversations and share what I believe to be true. 
+# About Me
+I sit at the intersection of **Analytics and Engineering** developing insights, pipelines and tools to support both. 
+
+My primary toolkit is:
+* Google Cloud Platform
+* Python 
+* PySpark
+* Rust
+* Vue
+
+I *attempt* to monitor data industry trends and *stay relevant* by investing time in learning new tools and ideas. 
+
+I'm currently working with [orgacuity](https://www.orgacuity.com/) on implementing modern LLMs effectively. 
+
+I also think deeply about talent development and creating flourishing opportunities as I've taken on more mentoring roles. 
+
+
 
 # Active Efforts
 
