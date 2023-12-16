@@ -5,7 +5,7 @@ title: 'Journal'
 hero:
   name: My Continous Learning Journal
   text:  
-  tagline: Mostly a mess of ideas & projects
+  tagline: Mostly a mess of notes, projects & references
   # Can i put text here
   image: 
     src: /knight_books.png
