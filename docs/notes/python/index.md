@@ -15,7 +15,10 @@ to explore them. All activity is captured in the following [repo](https://github
 
 ## Resources
 
+::: details Python Package Manager
 [Python Packaging Manager](https://dev.to/adamghill/python-package-manager-comparison-1g98) is a nice write-up of the current state of Python packaging. On a detour, I spent time visiting [Python Packaging Authority](https://github.com/pypa), and I didn't realize the number of libraries it envelopes, including flit, hatch, pipenv, et al. This is a nice [thread](https://discuss.python.org/t/what-is-the-pypa/12297/5) describing what pypa is - not authoritative, but seems to be authoritative according to [pep 609](https://peps.python.org/pep-0609/). pypa.io seems outdated, but [the user guide](https://packaging.python.org/en/latest/) is still content-rich. As an aside, [Py-Pkgs](https://py-pkgs.org/) is a nice read. A couple new libraries added to my backlog ([pip-audit](https://github.com/pypa/pip-audit), [rye](https://rye-up.com/))
+:::
+::: details Python Frameworks
 
 - [Python Frameworks](https://pythonframeworks.com/) Nice compendium of frameworks - so many unexplored - I highlighted a few I want to check out.
   - Web Framework: Python-only web development (CubicWeb, Dara, Esmerald, FrappeFramework, Solara)
@@ -27,10 +30,11 @@ to explore them. All activity is captured in the following [repo](https://github
   - Web Crawling/Scraping: always useful when needed (Dude, Trafilatura)
   - Gui & Tui: I haven't tried in many moons, time for another look (Eal, Gooey, Textual, Toga )
 
+:::
+
 ## Tips & Tricks
 
-### Use .env file
-
+::: details .env file
 Nice write-up [.env file](https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1)
 
 [python-dotenv](https://pypi.org/project/python-dotenv/)
@@ -45,3 +49,9 @@ from dotenv import load_dotenv
 load_dotenv()
 GCP_PROJECT_ID=os.getenv('GCP_PROJECT_ID')
 ```
+
+:::
+
+::: details data classes (slots=True)
+[Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/) offers practical advice but also motivates why with a breakdown of what is happening behind the scenes. One key takeaway was the penalty cost of setting (frozen=True). Here he provides a bit more [details](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/). Main point use (slots=True).
+:::
