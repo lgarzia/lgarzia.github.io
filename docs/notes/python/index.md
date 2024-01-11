@@ -34,6 +34,20 @@ to explore them. All activity is captured in the following [repo](https://github
 
 ## Tips & Tricks
 
+::: details safe pip install
+Detailed opinion on [pip install]()
+
+`python -m pip install --require-hashes --no-deps --only-binary :all: -r requirements.txt`
+
+Support view in the context of [python -m usage](https://snarky.ca/why-you-should-use-python-m-pip/)
+
+Support view in the context of [dependency management](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/).
+
+- [pip-tools](https://pypi.org/project/pip-tools/)
+
+- Support view in the context of [docs, src, and tests directories in the project root](https://hynek.me/articles/testing-packaging/)
+  :::
+
 ::: details .env file
 Nice write-up [.env file](https://dev.to/jakewitcher/using-env-files-for-environment-variables-in-python-applications-55a1)
 
