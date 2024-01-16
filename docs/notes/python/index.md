@@ -34,6 +34,33 @@ to explore them. All activity is captured in the following [repo](https://github
 
 ## Tips & Tricks
 
+::: details structural patterns
+[nice writeup](https://towardsdatascience.com/python-structural-pattern-matching-top-3-use-cases-to-get-you-started-262160007fa0)
+
+```python
+def get_service_level(user_data: dict):
+    match user_data:
+        case {'subscription': _, 'msg_type': 'info'}:
+            return 'Service level = 0'
+        case {'subscription': 'free', 'msg_type': 'error'}:
+            return 'Service level = 1'
+        case {'subscription': 'premium', 'msg_type': 'error'}:
+            return 'Service level = 2'
+```
+
+Usage
+
+```python
+@pytest.mark.parametrize('user_data, expected', [
+    ({'subscription': 'free', 'msg_type': 'info'}, 0),
+    ({'subscription': 'free', 'msg_type': 'error'}, 1),
+    ({'subscription': 'premium', 'msg_type': 'error'}, 2),
+])
+def test_get_service_level(user_data, expected):
+    assert get_service_level(user_data) == expected
+```
+
+:::
 ::: details safe pip install
 Detailed opinion on [pip install]()
 
