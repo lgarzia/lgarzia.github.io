@@ -8,7 +8,7 @@ outline: [1, 3]
 
 Intent is not to share every article I come across, but the ones I find compelling enough to share and have recently impacted my way of thinking or working.
 
-## Weekly Curations
+## Weekly Curations <Badge type="warning" text="unedited content" />
 
 ::: details view all
 
