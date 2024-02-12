@@ -65,6 +65,15 @@ export default defineConfig({
                         text: "2024-01-22",
                         link: "/notes/readings/2024_01_22",
                       },
+                      {
+                        text: "2024-01-29",
+                        link: "/notes/readings/2024_01_29",
+                      },
+                      ,
+                      {
+                        text: "2024-02-05",
+                        link: "/notes/readings/2024_02_05",
+                      },
                     ],
                   },
                 ],

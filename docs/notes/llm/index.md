@@ -34,11 +34,24 @@ What follows here is just _attempts_ to keep pace!
 - [langchain](https://github.com/langchain-ai/langchain) - library aims to assist in the development of LLM based applications.
 - [LlamaIndex](https://www.llamaindex.ai/) - is a data framework for LLM-based applications to ingest, structure, and access private or domain-specific data.
 - [semantic-kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) - framework powering Copilot.
+- [TaskWeaver](https://microsoft.github.io/TaskWeaver/): Data Analytics AI agent-based framework that manages memory, logging, and orchestration between User, Planner, and Code Generator via Chat. I worked through tutorials, documentation, and jotted notes [down](https://github.com/lgarzia/library_explorations/tree/main/TaskWeaver). My key takeaway is that agent-based systems are the future. This implementation is clever, interweaving custom plugins that supplement LLM models.
+  ::: details plotai
+  [plotai](https://github.com/mljar/plotai) It is a great library that interacts with Openai to automate the creation of plots in matplotlib with a simple command.
+  **note**: need to specify the key in .env file
+
+  ```python
+  from plotai import PlotAI
+  plot = PlotAI(df)
+  plot.make("make a scatter plot")
+  ```
+
+  :::
 
 ## Company Inventory
 
-I am primarily focused on business intelligence and automated data analysis.
+## I am primarily focused on business intelligence and automated data analysis.
 
 - [Julius](https://julius.ai/) - AI data analyst & more
 - [getdot.ai](https://www.getdot.ai/) - Make Data-Driven Decisions, Fast
-- [Anyscale](https://www.anyscale.com/endpoints) <-- managed llm endpoints
+- [datagpt.com](https://datagpt.com/) - The First Conversational AI Data Analyst
+  Ask DataGPT any question and get analyst-grade answers in seconds.
