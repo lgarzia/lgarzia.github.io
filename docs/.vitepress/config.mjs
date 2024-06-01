@@ -22,8 +22,9 @@ export default defineConfig({
     ],
     nav: [
       { text: "Home", link: "/" },
+      { text: "About me", link: "/about_me/" },
       {
-        text: "Notes",
+        text: "Journal",
         items: [
           { text: "Overview", link: "/notes/" },
           { text: "Readings", link: "/notes/readings/" },
@@ -87,7 +88,12 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   { text: "Overview", link: "/notes/python/" },
+                  { text: "Chart Me", link: "/notes/python/chart-me" },
                   { text: "Libraries", link: "/notes/python/python-libraries" },
+                  {
+                    text: "References",
+                    link: "/notes/python/references",
+                  },
                 ],
               },
               { text: "Leadership", link: "/notes/leadership/" },

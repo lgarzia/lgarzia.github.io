@@ -1,31 +1,33 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: 'Journal'
+title: "Journal"
 hero:
   name: My Continous Learning Journal
-  text:  
+  text:
   tagline: Mostly a mess of notes, projects & references
-  image: 
+  image:
     src: /knight_books.png
-    alt: relevant or bust  
+    alt: relevant or bust
   actions:
     - theme: brand
-      text: About me
+      text: See Journal
       link: /notes/
     - theme: alt
       text: Connect
       link: https://www.linkedin.com/in/luke-garzia/
 
 features:
-  - title: Medium Articles
-    details: Link to my medium articles - most recently heavy on BigQuery and my journey into AI engineering. 
-    link: https://medium.com/@garzia.luke
+  - title: OrgAcuity
+    details: I am a developer contributing to this effort to democratize People Analytics for all.
+    link: https://www.orgacuity.com/
   - title: Chart Me
-    details: Python Package to simplify data visualizations. Currently, evaluating AI agents as a replacement tool. 
+    details: My Python library that simplifies chart generation when exploring data.
     link: https://pypi.org/project/chart_me/
-  - title: GCP Project
-    details: A learning project to extract topics from podcasts that facilitated my certification studies.
-    link: https://github.com/lgarzia/topic_extractions
+  - title: GCP Projects
+    details: A series of projects to facilitate my certification studies and continuous learning.
+    link: /notes/gcp/
+  - title: Medium Articles
+    details: Tutorials & musing covering a range of Analytics & Engineering topics.
+    link: https://medium.com/@garzia.luke
 ---
-
