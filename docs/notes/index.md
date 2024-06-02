@@ -6,11 +6,6 @@ outline: [1, 3]
 
 # Active Efforts
 
-::: details Rust-100 day challenge
-My thoughts align with [SeatleDataGuy](https://seattledataguy.substack.com/p/behind-the-rust-hype-what-every-data).
-Python ecosystem is going through a [_rustification_ process](https://python.plainenglish.io/the-development-trend-of-python-in-2023-deep-integration-with-rust-easier-to-write-web-fc92716ae653). While, it's unlikely analyst and engineers will leverage Rust directly, like most don't leverage C directly. In my opinion, I think it's beneficial to demystify and develop a working knowledge of Rust, hence working through a 100-day challenge.
-:::
-
 ::: details AI Engineering (Rise of LLM Apps)
 The rise of [AI Agents](https://e2b.dev/blog/ai-agents-vs-developers?utm_source=substack&utm_medium=email) is inevitable. The idea of creating an adaptable application that can learn and remain flexible without code change is remarkable. Furthermore, the _fragile_ prompt engineering process will give way to abstractions like ['reasoning'](https://github.com/stanfordnlp/dspy), demonstrating a paradigm shift in application and data analytics **will happen**.
 :::

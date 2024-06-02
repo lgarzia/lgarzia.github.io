@@ -9,21 +9,14 @@ outline: [1, 3]
 I use engineering as a catch-all for all forms of engineering - too many job titles. My and other engineers' responsibilities span the gamut:
 
 - Data Engineering -> Managing ETL pipelines
-- ML Engineering -> Monitoring for data drift
+- ML Engineering -> Monitoring ML model performance
 - Analytics Engineering -> Building DBT models
 - Software Engineering -> Creating front-end applications or APIs
 - DevOps Engineering -> Updating Jenkins CI/CD pipelines
-- Platform Engineering -> Revising Terraform Scripts
+- Platform Engineering -> Managing cloud infrastructure
+- AI Engineering -> Developing with and monitoring LLM (multi-modal) applications.
 
 In the end, Engineers solve problems given toolkits and constraints.
-
-## Rust
-
-::: details Rust-100 day challenge
-[Completed the Rust-100 day challenge](https://github.com/lgarzia/Rust_100Days).
-My thoughts align with [SeatleDataGuy](https://seattledataguy.substack.com/p/behind-the-rust-hype-what-every-data).
-Python ecosystem is going through a [_rustification_ process](https://python.plainenglish.io/the-development-trend-of-python-in-2023-deep-integration-with-rust-easier-to-write-web-fc92716ae653). It's unlikely analysts will leverage Rust directly. Python's simplicity will be hard to beat for a lot of glue code use cases though.  
-:::
 
 ## Apache Iceberg
 

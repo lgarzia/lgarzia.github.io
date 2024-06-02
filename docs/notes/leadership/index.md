@@ -1,5 +1,5 @@
 ---
-title: Leadership
+title: Leadership & Professional Development
 editLink: false
 outline: [1, 3]
 ---

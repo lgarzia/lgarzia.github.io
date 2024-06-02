@@ -47,42 +47,44 @@ export default defineConfig({
             text: "Topics",
             items: [
               {
-                text: "Readings",
-                collapsed: false,
+                text: "Analytics",
+                collapsed: true,
                 items: [
+                  { text: "Overview", link: "/notes/analytics/" },
+                  { text: "Link-a-thon", link: "/notes/analytics/link-a-thon" },
+                ],
+              },
+              {
+                text: "Engineering",
+                collapsed: true,
+                items: [
+                  { text: "Overview", link: "/notes/engineering/" },
                   {
-                    text: "Overview",
-                    link: "/notes/readings/",
+                    text: "Link-a-thon",
+                    link: "/notes/engineering/link-a-thon",
                   },
                   {
-                    text: "Weekly Recaps",
-                    collapsed: true,
-                    items: [
-                      {
-                        text: "2024-01-15",
-                        link: "/notes/readings/2024_01_15",
-                      },
-                      {
-                        text: "2024-01-22",
-                        link: "/notes/readings/2024_01_22",
-                      },
-                      {
-                        text: "2024-01-29",
-                        link: "/notes/readings/2024_01_29",
-                      },
-                      ,
-                      {
-                        text: "2024-02-05",
-                        link: "/notes/readings/2024_02_05",
-                      },
-                    ],
+                    text: "Rust",
+                    link: "/notes/engineering/rust",
                   },
                 ],
               },
-              { text: "Analytics", link: "/notes/analytics/" },
-              { text: "Engineering", link: "/notes/engineering/" },
-              { text: "AI Engineering", link: "/notes/llm/" },
-              { text: "GCP", link: "/notes/gcp/" },
+              {
+                text: "AI Engineering",
+                collapsed: true,
+                items: [
+                  { text: "Overview", link: "/notes/llm/" },
+                  { text: "Link-a-thon", link: "/notes/llm/link-a-thon" },
+                ],
+              },
+              {
+                text: "GCP",
+                collapsed: true,
+                items: [
+                  { text: "Overview", link: "/notes/gcp/" },
+                  { text: "Link-a-thon", link: "/notes/gcp/link-a-thon" },
+                ],
+              },
               {
                 text: "Python",
                 collapsed: true,
@@ -94,6 +96,7 @@ export default defineConfig({
                     text: "References",
                     link: "/notes/python/references",
                   },
+                  { text: "Link-a-thon", link: "/notes/python/link-a-thon" },
                 ],
               },
               { text: "Leadership", link: "/notes/leadership/" },
