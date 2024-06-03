@@ -8,14 +8,6 @@ outline: [1, 3]
 
 Intent is not to share every article I come across, but the ones I find compelling enough to share and have recently impacted my way of thinking or working.
 
-## Weekly Curations <Badge type="warning" text="unedited content" />
-
-::: details view all
-
-- [2024-01-15](./2024_01_15): Big catchup on GCP and recap of 2023
-- [2024-01-22](./2024_01_22): AI Engineering heavy with several 'state of' articles.
-  :::
-
 ## Analytics & Data Mining
 
 ::: details [ML/AI/Data - Landscape](https://mad.firstmark.com/)
