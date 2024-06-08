@@ -30,7 +30,7 @@ Rounding out the circuit:
 - [x] Data Engineering
 - [x] Machine Learning Engineering
 - [x] Cloud Architect
-- [ ] [DevOps](/notes/gcp/devop-cert/):
+- [ ] [DevOps](/notes/gcp/devop-cert):
 
 :::
 
