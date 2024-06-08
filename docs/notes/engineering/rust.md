@@ -10,9 +10,13 @@ Python ecosystem is going through a [_rustification_ process](https://python.pla
 
 ## Links & Articles
 
+- [Behind the Rust Hype](https://seattledataguy.substack.com/p/behind-the-rust-hype-what-every-data)
 - [Enums](https://www.shuttle.rs/blog/2023/11/23/enums-in-rust)
 - [Editions](https://doc.rust-lang.org/stable/edition-guide/editions/index.html)
 - [serde](https://www.shuttle.rs/blog/2024/01/23/using-serde-rust)
 - [tagged types](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 - [clap tutorial](https://rust.code-maven.com/clap-subcommand)
 - [printing errors](https://heikoseeberger.de/2024-01-01-printing-errors/)
+- [Polars String Data Structure](https://pola.rs/posts/polars-string-type/)
+- [rustpython](https://rustpython.github.io/)
+- [Comprehensive Resource Guide](https://dev.to/apollolabsbin/58-rust-resources-every-learner-should-know-in-2023-12m9)

@@ -27,7 +27,6 @@ export default defineConfig({
         text: "Journal",
         items: [
           { text: "Overview", link: "/notes/" },
-          { text: "Readings", link: "/notes/readings/" },
           { text: "Analytics", link: "/notes/analytics/" },
           { text: "Engineering", link: "/notes/engineering/" },
           { text: "AI Engineering", link: "/notes/llm/" },
@@ -83,6 +82,10 @@ export default defineConfig({
                 items: [
                   { text: "Overview", link: "/notes/gcp/" },
                   { text: "Link-a-thon", link: "/notes/gcp/link-a-thon" },
+                  {
+                    text: "DevOps Cert.",
+                    link: "/notes/gcp/devop-cert",
+                  },
                 ],
               },
               {

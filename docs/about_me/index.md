@@ -6,18 +6,38 @@ outline: [1, 3]
 
 # About Me
 
+## Professional Description
+
 I sit at the intersection of **Analytics and Engineering** developing insights, pipelines and tools to support both.
 
-My primary toolkit is:
+## Toolkit
+
+**Primary**:
 
 - Google Cloud Platform
 - Python
 - PySpark
 
-Secondary tools are Javascript & Vue Framework while trying to grow my personal Rust adoption.
+**Secondary**:
 
-My vehicle for continuous learning is my Python library called chart-me and burning through GCP credits developing end-to-end implementations.
+- Javascript
+- [NiceGui](https://nicegui.io/) framework and ecosystem for Web Development.
 
-I _attempt_ to monitor data industry trends and _stay relevant_ by investing time in learning new tools and ideas.
+**Learning**
 
-I'm currently working with [orgacuity](https://www.orgacuity.com/) on implementing modern LLMs effectively.
+- Rust
+
+## Learning Projects
+
+- Open Source Library - chart-me
+- End-to-end GCP projects while studying for certifications.
+
+## Monitoring Industry and Trends
+
+<mark>This is the key motivation behind this site.</mark>
+
+I _attempt_ to monitor data industry trends and _stay relevant_ by reading too much & exploring too little.
+
+## Passion Endeavor
+
+I'm currently working with [orgacuity](https://www.orgacuity.com/) on implementing modern LLMs effectively and building front-end interface via NiceGui.

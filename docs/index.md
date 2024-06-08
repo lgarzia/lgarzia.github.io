@@ -5,7 +5,7 @@ title: "Journal"
 hero:
   name: My Continous Learning Journal
   text:
-  tagline: Mostly a mess of notes, projects & references
+  tagline: Mostly a mess of notes, vignettes, projects & references
   image:
     src: /knight_books.png
     alt: relevant or bust

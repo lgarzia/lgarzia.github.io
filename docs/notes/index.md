@@ -4,13 +4,34 @@ editLink: false
 outline: [1, 3]
 ---
 
-# Active Efforts
+# Current Focus
 
-::: details AI Engineering (Rise of LLM Apps)
-The rise of [AI Agents](https://e2b.dev/blog/ai-agents-vs-developers?utm_source=substack&utm_medium=email) is inevitable. The idea of creating an adaptable application that can learn and remain flexible without code change is remarkable. Furthermore, the _fragile_ prompt engineering process will give way to abstractions like ['reasoning'](https://github.com/stanfordnlp/dspy), demonstrating a paradigm shift in application and data analytics **will happen**.
+::: details GCP Services - (AI/ML/Data Engineering)
+Focusing on AI Engineering in the context of GCP.
+
+- [x] [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder?hl=en)
+- [x] [Vertex AI Search](https://cloud.google.com/enterprise-search?hl=en)
+- [ ] [Serverless Spark](https://cloud.google.com/solutions/spark?hl=en)
+
+:::  
+::: details Python Library Development - Incorporating Best Practices via Open Source
+The big idea is finding accessible open source projects and pulling out ideas to incorporate.  
+ Up next:
+
+- [ ] Rich Terminal
+- [ ] Pluggy
+- [ ] Hypothesis Testing
+
 :::
-::: details GCP - Vertex AI
-The motivation should be self-evident - Cloud Native Applications are the present and [future](https://www.idc.com/getdoc.jsp?containerId=prUS51179523). Furthermore, LLM foundational models are highly concentrated on a _few_ players[https://docs.google.com/presentation/d/156WpBF_rGvf4Ecg19oM1fyR51g4FAmHV3Zs0WLukrLQ/edit#slide=id.g24daeb7f4f0_0_3507]. Through fate of circumstance, I'm invested in Google Cloud Platform.
+
+::: details GCP Certification - DevOps  
+Rounding out the circuit:
+
+- [x] Data Engineering
+- [x] Machine Learning Engineering
+- [x] Cloud Architect
+- [ ] [DevOps](/notes/gcp/devop-cert/):
+
 :::
 
 ---
@@ -22,30 +43,11 @@ Navigate to relevant sections of interest.
 I avoid step-by-step tutorials and focus mainly on broad ideas, mental models, & use cases because, generally speaking, the germane references are really good these days.
 :::
 
-## [Readings](/notes/readings/)
-
-Sharing links to articles that I have found insightful.
-
-## [Analytics](/notes/analytics/)
-
-Researching tools, techniques, and concepts to extract meaning from data.
-
-## [Engineering](/notes/engineering/)
-
-Tracking industry changes & exploring concepts & ideas around engineering in general - including but not limited to (DE, ML, Analytics, Software, Platform)
-
-## [AI Engineering](/notes/llm/)
-
-Building applications with LLMs and AI Agents.
-
-## [Google Cloud Platform](/notes/gcp/)
-
-Leveraging GCP services and architectural patterns - heavy emphasis at times is on BigQuery.
-
-## [Python](/notes/python/)
-
-Keeping a pulse on the Python ecosystem by mostly exploring new libraries.
-
-## [Leadership](/notes/leadership/)
-
-Musing about non-technical aspects of staying relevant from Personal branding to future of work.
+| Topic                                | Objective                                                                                    |
+| ------------------------------------ | -------------------------------------------------------------------------------------------- |
+| [Analytics](/notes/analytics/)       | Research tools, techniques, and concepts to extract information from data.                   |
+| [Engineering](/notes/engineering/)   | Be a Holistic Engineer (DE, ML, Analytics, Software, Platform, DevOps)                       |
+| [AI Engineering](/notes/llm/)        | Build applications with LLMs and AI Agents.                                                  |
+| [Google Cloud Platform](/notes/gcp/) | Leverage GCP services and architectural patterns to support Analytics & Engineering          |
+| [Python](/notes/python/)             | Deepen my expertise by reading & exploring open source projects. Keeping pulse on ecosystem. |
+| [Leadership](/notes/leadership/)     | Professional Development with occasional look into the future of work.                       |

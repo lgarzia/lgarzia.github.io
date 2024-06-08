@@ -50,3 +50,60 @@ Therefore, observability and evaluation present a significant opportunity for ne
 - [Llm + data science](https://pca.st/podcast/f74fa690-8b35-0139-34f1-0acc26574db2): Hamel Husain's journey is a great listen.
 - [Research: auto assert LLM results](https://arxiv.org/abs/2401.03038)
 - [insightpilot](https://www.marktechpost.com/2023/12/24/microsoft-researchers-introduce-insightpilot-an-llm-empowered-automated-data-exploration-system/): assisted data analytics
+
+## 2024-02
+
+- [RAGatouille](https://github.com/bclavie/RAGatouille): RAGatouille is really a big deal, and it’s revolutionising RAG apps development!
+- [mergekit](https://github.com/arcee-ai/mergekit)
+- [Trough of disillusionment](https://www.ai2incubator.com/blog/Insight-13-Trough-of-Disillusionment)
+  Despite advances such as low-rank adaptation (LoRA), fine tuning LLMs is still extremely challenging. Make sure you exhaust the potential of in-context learning, following OpenAI’s guide and techniques such as promptbase. Fine tune as a last resort and expect many attempts before succeeding.
+- [open ai prompt guide](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)
+- [promptbase](https://github.com/microsoft/promptbase)
+- [OLMO SOTA LLM Open Source](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
+- [NOMIC SOTA Open Source Emedding](https://blog.nomic.ai/posts/nomic-embed-text-v1?utm_source=substack&utm_medium=email)
+
+- [progression](https://www.marktechpost.com/2024/02/03/a-memes-glimpse-into-the-pinnacle-of-artificial-intelligence-ai-progress-in-a-mamba-series-llm-enlightenment)In the dynamic field of Artificial Intelligence (AI), the trajectory from one foundational model to another has represented an amazing paradigm shift. The escalating series of models, including Mamba, Mamba MOE, MambaByte, and the latest approaches like Cascade, Layer-Selective Rank Reduction (LASER), and Additive Quantization for Language Models (AQLM) have revealed new levels of cognitive power.
+- [12 prompt engineering techniques](https://medium.com/@cobusgreyling/12-prompt-engineering-techniques-644481c857aa)
+- [prometheus](https://huggingface.co/papers/2310.08491?ref=blog.premai.io): evaluating LLMs
+
+- [llmware](https://github.com/llmware-ai/llmware)
+  As enterprises look to deploy LLMs in more complex production use cases beyond simple knowledge assistants, there is a growing recognition of three interconnected needs:
+
+Agents – complex workflows involve multiple steps and require the orchestration of multiple LLM calls;
+
+Function Calls – models need to be able to generate structured output that can be handled programmatically, including key tasks such as classification and clustering, which often times are the connective tissue in such workflows; and
+
+Private Cloud – models and data pipelines need to be finetuned and tightly integrated with sensitive existing enterprise processes and data stores.
+
+- [sqlcoder AI](https://defog.ai/blog/open-sourcing-sqlcoder/)
+- [langflow](https://github.com/logspace-ai/langflow)
+- [prompt guide](https://www.promptingguide.ai/)
+
+## 2024-03
+
+- [tiktoken](https://github.com/openai/tiktoken)
+- [ReAct](https://til.simonwillison.net/llms/python-react-pattern)
+- [embedchain](https://github.com/embedchain/embedchain)
+
+## 2024-04
+
+- [agent-studio](https://skyworkai.github.io/agent-studio/index.html)
+- [fascinating AllHands](https://www.marktechpost.com/2024/03/27/researchers-at-microsoft-propose-allhands-a-novel-machine-learning-framework-designed-for-large-scale-feedback-analysis-through-a-natural-language-interface)
+- [huggingface - moe](https://huggingface.co/blog/moe)
+- [jailbreaking](https://garymarcus.substack.com/p/an-unending-array-of-jailbreaking)
+- [LaVague - nlp navigate web](https://github.com/lavague-ai/LaVague)
+- [llm transparency tool](https://github.com/facebookresearch/llm-transparency-tool)
+- [continued abstractions](https://cohere.com/blog/rerank-3)
+- [chatdev](https://github.com/OpenBMB/ChatDev)
+- [Pattern - Planning](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning)
+- [Agentic Design Pattern](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-3-tool-use)
+- [Agentic Patterns](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance)
+- Reflection: The LLM examines its own work to come up with ways to improve it.
+- Tool Use: The LLM is given tools such as web search, code execution, or any other function to help it gather information, take action, or process data.
+- Planning: The LLM comes up with, and executes, a multistep plan to achieve a goal (for example, writing an outline for an essay, then doing online research, then writing a draft, and so on).
+- Multi-agent collaboration: More than one AI agent work together, splitting up tasks and discussing and debating ideas, to come up with better solutions than a single agent would.
+- [LLMs Practical Guide](https://github.com/JingfengYang/LLMsPracticalGuide)
+
+## 2024-05
+
+- [Agentic Workflows](https://gradientflow.com/agentic-ai-challenges-and-opportunities/)
