@@ -8,7 +8,16 @@ outline: [1, 4]
 
 Continuously refined list.
 
-## Items to Explore Further
+## 2024-10
+
+[Ultimate Guide to Testing](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
+
+## 2024-09
+
+[logger basic](https://rednafi.com/python/no_hijack_root_logger/) Don't set root logger in library importable by applications.
+[template pattern](https://startcodingnow.com/template-method-design-pattern) This is useful when you have a series of steps that need to be executed in a specific order, but the implementation of some steps may vary.
+
+## 2024-01
 
 - [DataFrame Interchange Protocol](https://ponder.io/how-the-python-dataframe-interchange-protocol-makes-life-better/)
 

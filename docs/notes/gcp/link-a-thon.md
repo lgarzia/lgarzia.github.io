@@ -8,6 +8,8 @@ outline: [1, 4]
 
 Continously refined list.
 
+## 2024-09
+
 ## 2024-01
 
 - [2023 Recap](https://cloud.google.com/blog/products/gcp/google-cloud-top-news-of-2023?utm_source=substack&utm_medium=email):

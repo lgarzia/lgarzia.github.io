@@ -8,6 +8,10 @@ outline: [1, 4]
 
 Continuously refined list.
 
+## 2024-09
+
+[Top AI libraries] https://dev.to/composiodev/13-open-source-tools-that-will-make-you-99-more-likely-to-land-any-ai-job-3049: Agentic workflow libraries are getting further developed.
+
 ## 2024-01
 
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Fine-tuning Open Source Models

@@ -91,3 +91,51 @@ We've looked at site reliability engineering as a three-part journey; SLOs with 
 ---
 
 [Dora Quick Check](https://dora.dev/quickcheck/)
+
+---
+
+**Microservices**
+With microservices, the individual components are deployable.
+To achieve independence on services, each service should have its own datastore.
+![Service Boundary](/gcp_devops_service_boundary.png)  
+A recognized best practice for designing stateful services is to use backend storage services that are shared by frontend, stateless services.  
+![Service Boundary](/gcp_devops_general_ms_soln.png)  
+The twelve-factor app is a set of best practices for building web or software-as-a-service applications.  
+Developed at Google, gRPC is a binary protocol that is extremely useful for internal microservice communication.  
+!['GCP Endpoint Solutions'](/gcp_devops_gcp_ep_soln)  
+Code and config should be separated, because config varies across deployments but code does not. The true test is whether the repository could be open-sourced without compromising any credentials.
+
+---
+
+It’s also possible to connect an existing GitHub or Bitbucket repository to Cloud Source Repositories.
+Connected repositories are synchronized with Cloud Source Repositories automatically.
+
+![Binary Authorization](/gcp_devops_bin_auth)
+
+---
+
+![Network Objectives](/gcp_devops_network_obj)
+Also, you can have multiple networks per project.  
+These networks are just a collection of regional subnetworks or subnets.
+
+To create custom subnets you specify the region and the internal IP address range, as illustrated in the screenshots on the right.
+To create custom subnets you specify the region and the internal IP address range  
+The IP ranges of these subnets don't need to be derived from a single CIDR block, but they cannot overlap with other subnets of the same VPC network.
+
+Once you defined your subnets, machines in the same VPC network can communicate with each other through their internal IP address regardless of the subnet they are connected to.
+
+a single VM can have multiple network interfaces connecting to different VPC networks.  
+an example of a Compute Engine instance connected to four different networks covering production, test, infra, and an outbound network.
+
+Shared VPC is a centralized approach to multi-project networking, because security and network policy occurs in a single designated VPC network.  
+Meanwhile, organization network administrators maintain control of resources such as subnets, firewall rules, and routes
+while delegating the control of creating resources such as instances to service project administrators or developers.
+
+![Network Objectives](/gcp_devops_load_balancers)
+VPC peering allows private RFC 1918 connectivity across two VPC networks regardless of whether they belong to the same project or the same organization.  
+Cloud VPN securely connects your on-premises network to your Google Cloud VPC network through an IPsec VPN tunnel.
+![Security Objective](/gcp_devops_security_obj)  
+![Monitor Architecture](/gcp_devops_monitor_arch)
+
+One of the most common uses of Cloud Monitoring is platform monitoring Blackbox monitoring of the platform enables users to get visibility into the performance of their Google Cloud services.
+![Measuring Alerts](/gcp_devops_alerts)
