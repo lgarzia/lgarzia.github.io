@@ -102,7 +102,7 @@ A recognized best practice for designing stateful services is to use backend sto
 ![Service Boundary](/gcp_devops_general_ms_soln.png)  
 The twelve-factor app is a set of best practices for building web or software-as-a-service applications.  
 Developed at Google, gRPC is a binary protocol that is extremely useful for internal microservice communication.  
-!['GCP Endpoint Solutions'](/gcp_devops_gcp_ep_soln)  
+!['GCP Endpoint Solutions'](/gcp_devops_gcp_ep_soln.png)  
 Code and config should be separated, because config varies across deployments but code does not. The true test is whether the repository could be open-sourced without compromising any credentials.
 
 ---
@@ -110,11 +110,11 @@ Code and config should be separated, because config varies across deployments bu
 It’s also possible to connect an existing GitHub or Bitbucket repository to Cloud Source Repositories.
 Connected repositories are synchronized with Cloud Source Repositories automatically.
 
-![Binary Authorization](/gcp_devops_bin_auth)
+![Binary Authorization](/gcp_devops_bin_auth.png)
 
 ---
 
-![Network Objectives](/gcp_devops_network_obj)
+![Network Objectives](/gcp_devops_network_obj.png)
 Also, you can have multiple networks per project.  
 These networks are just a collection of regional subnetworks or subnets.
 
@@ -131,11 +131,11 @@ Shared VPC is a centralized approach to multi-project networking, because securi
 Meanwhile, organization network administrators maintain control of resources such as subnets, firewall rules, and routes
 while delegating the control of creating resources such as instances to service project administrators or developers.
 
-![Network Objectives](/gcp_devops_load_balancers)
+![Network Objectives](/gcp_devops_load_balancers.png)
 VPC peering allows private RFC 1918 connectivity across two VPC networks regardless of whether they belong to the same project or the same organization.  
 Cloud VPN securely connects your on-premises network to your Google Cloud VPC network through an IPsec VPN tunnel.
-![Security Objective](/gcp_devops_security_obj)  
-![Monitor Architecture](/gcp_devops_monitor_arch)
+![Security Objective](/gcp_devops_security_obj.png)  
+![Monitor Architecture](/gcp_devops_monitor_arch.png)
 
 One of the most common uses of Cloud Monitoring is platform monitoring Blackbox monitoring of the platform enables users to get visibility into the performance of their Google Cloud services.
-![Measuring Alerts](/gcp_devops_alerts)
+![Measuring Alerts](/gcp_devops_alerts.png)
