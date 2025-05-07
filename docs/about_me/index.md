@@ -4,8 +4,6 @@ editLink: false
 outline: [1, 3]
 ---
 
-# About Me
-
 ## Professional Description
 
 I sit at the intersection of **Analytics and Engineering** developing insights, pipelines and tools to support both.

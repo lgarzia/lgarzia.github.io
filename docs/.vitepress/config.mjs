@@ -22,7 +22,6 @@ export default defineConfig({
     ],
     nav: [
       { text: "Home", link: "/" },
-      { text: "About me", link: "/about_me/" },
       {
         text: "Journal",
         items: [

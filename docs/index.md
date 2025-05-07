@@ -3,15 +3,15 @@
 layout: home
 title: "Journal"
 hero:
-  name: My Continous Learning Journal
+  name: Learning Journal
   text:
-  tagline: Mostly a mess of notes, vignettes, projects & references
+  tagline: Engineering & Analytics
   image:
     src: /knight_books.png
     alt: relevant or bust
   actions:
     - theme: brand
-      text: See Journal
+      text: Explore Journal
       link: /notes/
     - theme: alt
       text: Connect
