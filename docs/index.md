@@ -18,15 +18,9 @@ hero:
       link: https://www.linkedin.com/in/luke-garzia/
 
 features:
-  - title: OrgAcuity
-    details: I am a developer contributing to this effort to democratize People Analytics for all.
-    link: https://www.orgacuity.com/
   - title: Chart Me
     details: My Python library that simplifies chart generation when exploring data.
     link: https://pypi.org/project/chart_me/
-  - title: GCP Projects
-    details: A series of projects to facilitate my certification studies and continuous learning.
-    link: /notes/gcp/
   - title: Medium Articles
     details: Tutorials & musing covering a range of Analytics & Engineering topics.
     link: https://medium.com/@garzia.luke

@@ -37,7 +37,3 @@ I sit at the intersection of **Analytics and Engineering** developing insights, 
 <mark>This is the key motivation behind this site.</mark>
 
 I _attempt_ to monitor data industry trends and _stay relevant_ by reading too much & exploring too little.
-
-## Passion Endeavor
-
-I'm currently working with [orgacuity](https://www.orgacuity.com/) on implementing modern LLMs effectively and building front-end interface via NiceGui.
